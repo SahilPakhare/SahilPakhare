@@ -15,7 +15,7 @@ I am a **Computer Science Student** and an **Aspiring Full Stack Developer** bas
 - 🌱 **Learning:** Deepening my knowledge in **Backend Architecture** and **Cloud Technologies**.
 - 🛠️ **Problem Solving:** Regularly practicing DSA in **Java** and **C++**.
 - 🎯 **Goal:** To build scalable applications that make an impact.
-- 📫 **Reach Me:** [sahilpakhare@email.com](mailto:your-email@example.com)
+- 📫 **Reach Me:** [sahilpakhare17@gmail.com](mailto:your-email@example.com)
 
 ---
 
