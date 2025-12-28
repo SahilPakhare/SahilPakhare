@@ -8,7 +8,7 @@ I am a dedicated developer focused on building scalable web applications and sol
 
 * 🔭 **Focus:** Mastering the MERN stack and Java-based architectures.
 * 🤝 **Collaboration:** Open to contributing to Open Source projects and web-based startups.
-* ✉️ **Contact:** sahilpakhare17@example.com](mailto:your-email@example.com)
+* ✉️ **Contact:** sahilpakhare17@example.com 
 
 ---
 
