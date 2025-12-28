@@ -1,64 +1,49 @@
-# 👋 Hello! I'm Sahil Pakhare
-
-<p align="left">
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-<img src="https://komarev.com/ghpvc/?username=SahilPakhare&label=Profile%20Views&color=blue&style=flat" alt="SahilPakhare" />
-</p>
-
-I am a **Computer Science Student** and an **Aspiring Full Stack Developer** based in India. I have a passion for building digital products that solve real-world problems through clean code and intuitive design.
+# 👨‍💻 Sahil Pakhare
+**Information Technology  Engineer | Full Stack Enthusiast**
 
 ---
 
-### 🚀 About Me
-- 🎓 **Education:** Currently pursuing my degree in Computer Science & Engineering.
-- 💻 **Core Focus:** Full Stack Web Development (MERN Stack).
-- 🌱 **Learning:** Deepening my knowledge in **Backend Architecture** and **Cloud Technologies**.
-- 🛠️ **Problem Solving:** Regularly practicing DSA in **Java** and **C++**.
-- 🎯 **Goal:** To build scalable applications that make an impact.
-- 📫 **Reach Me:** [sahilpakhare17@gmail.com](mailto:your-email@example.com)
+### 🟢 A Little About Me
+I am a dedicated developer focused on building scalable web applications and solving complex algorithmic challenges. Currently, I am bridge-building between academic concepts and real-world software solutions.
+
+* 🔭 **Focus:** Mastering the MERN stack and Java-based architectures.
+* ⚡ **Involved In:** Developing tools like the [Keep-Notes-App](https://github.com/SahilPakhare/Keep-Notes-App) and exploring API integrations.
+* 🧠 **Skills:** Solving Data Structures & Algorithms in Java & C++.
+* 🤝 **Collaboration:** Open to contributing to Open Source projects and web-based startups.
+* ✉️ **Contact:** sahilpakhare17@example.com](mailto:your-email@example.com)
 
 ---
 
-### 💻 Languages & Tech Stack
+### 🛠️ Tech Stack & Skills
+I believe in using the right tool for the job. Here are the technologies I work with:
 
-**Programming & Web Development**
-<p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,js,react,html,css,tailwind,nodejs,express,mongodb,git,vscode" />
-  </a>
-</p>
-
----
-
-### 📂 Featured Work
-* **[Keep Notes App](https://github.com/SahilPakhare/Keep-Notes-App)** - A productivity tool for managing daily tasks with a smooth React UI.
-* **[Weather App](https://github.com/SahilPakhare/Weather-App)** - Real-time weather forecasting application using OpenWeather API.
-* **[DSA Practice](https://github.com/SahilPakhare/Java-Programming)** - A repository of logic-building exercises and algorithm implementations.
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `C` `JavaScript (ES6+)` `HTML5` `CSS3` |
+| **Frameworks** | `React.js` `Node.js` `Express.js` |
+| **Databases** | `MongoDB` `MySQL` |
+| **Tools** | `Git` `GitHub` `VS Code` `Postman` |
 
 ---
 
-### 📊 My GitHub Journey
+### 📈 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SahilPakhare&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPakhare&layout=compact&theme=vue-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilPakhare&theme=vue-dark&hide_border=true" alt="Sahil's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilPakhare&show_icons=true&theme=omni&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPakhare&layout=compact&theme=omni&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/sahil-pakhare" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/SahilPakhare" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <i>"Logic will get you from A to B. Imagination will take you everywhere."</i>
-</p>
+<br />
+
+> *"The best way to predict the future is to invent it."*
