@@ -7,8 +7,6 @@
 I am a dedicated developer focused on building scalable web applications and solving complex algorithmic challenges. Currently, I am bridge-building between academic concepts and real-world software solutions.
 
 * 🔭 **Focus:** Mastering the MERN stack and Java-based architectures.
-* ⚡ **Involved In:** Developing tools like the [Keep-Notes-App](https://github.com/SahilPakhare/Keep-Notes-App) and exploring API integrations.
-* 🧠 **Skills:** Solving Data Structures & Algorithms in Java & C++.
 * 🤝 **Collaboration:** Open to contributing to Open Source projects and web-based startups.
 * ✉️ **Contact:** sahilpakhare17@example.com](mailto:your-email@example.com)
 
