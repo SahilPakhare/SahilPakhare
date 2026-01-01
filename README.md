@@ -24,14 +24,6 @@ I believe in using the right tool for the job. Here are the technologies I work 
 
 ---
 
-### 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilPakhare&show_icons=true&theme=omni&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilPakhare&layout=compact&theme=omni&hide_border=true" width="45%" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/sahilpakhare/" target="_blank">
