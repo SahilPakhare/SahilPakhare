@@ -7,7 +7,8 @@
 Dedicated to solving complex problems with scalable, AI-driven solutions across every domain.
 
 * 🤝 **Collaboration:** Open to contributing to Open Source projects and web-based startups.
-* ✉️ **Contact:** sahilpakhare17@example.com 
+* ✉️ **Contact:** sahilpakhare17@gmail.com
+* 💼 **Porfolio** https://sahilpakhare.github.io/SahilPortfolio/
 
 ---
 
