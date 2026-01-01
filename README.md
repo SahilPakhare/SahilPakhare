@@ -4,9 +4,8 @@
 ---
 
 ### 🟢 A Little About Me
-I am a dedicated developer focused on building scalable web applications and solving complex algorithmic challenges. Currently, I am bridge-building between academic concepts and real-world software solutions.
+Dedicated to solving complex problems with scalable, AI-driven solutions across every domain.
 
-* 🔭 **Focus:** Mastering the MERN stack and Java-based architectures.
 * 🤝 **Collaboration:** Open to contributing to Open Source projects and web-based startups.
 * ✉️ **Contact:** sahilpakhare17@example.com 
 
@@ -20,7 +19,7 @@ I believe in using the right tool for the job. Here are the technologies I work 
 | **Languages** | `Java` `C` `JavaScript (ES6+)` `HTML5` `CSS3` |
 | **Frameworks** | `React.js` `Node.js` `Express.js` |
 | **Databases** | `MongoDB` `MySQL` |
-| **Tools** | `Git` `GitHub` `VS Code` `Postman` |
+| **Tools** | `Git` `GitHub` `VS Code`|
 
 ---
 
